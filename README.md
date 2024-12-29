@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in HTML related to updating the innerHTML property of an element.  The bug involves an inefficient and potentially vulnerable method of appending content.  The solution provides a more robust approach.  This example highlights the importance of proper DOM manipulation techniques to avoid unexpected behavior and security risks.
